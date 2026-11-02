@@ -155,7 +155,7 @@ export const Hero: React.FC<HeroProps> = ({
           <div className="lg:col-span-5 relative">
             <div className="relative rounded-3xl overflow-hidden shadow-2xl border-4 border-white bg-stone-200">
               <img
-                src="/src/assets/images/hero_humanitarian_care_1793610628362.jpg"
+                src="/assets/images/hero_humanitarian_care_1793610628362.jpg"
                 alt="Al Noor Global Orphan Care education program in Africa"
                 className="w-full h-80 sm:h-[420px] lg:h-[460px] object-cover"
                 loading="eager"
